@@ -1,0 +1,22 @@
+{
+  "name": "ja-pagou",
+  "version": "1.0.0",
+  "description": "Disciplinas da UFRN que nunca existiram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvfe/ja-pagou.git"
+  },
+  "author": "João Vitor Cavalcante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvfe/ja-pagou/issues"
+  },
+  "homepage": "https://github.com/jvfe/ja-pagou#readme",
+  "dependencies": {
+    "rita": "^1.3.94"
+  }
+}
