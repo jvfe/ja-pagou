@@ -1,8 +1,7 @@
 # Já pagou?
-===========
 
 ```
-AMBULATÓRIO DERMATOLOGIA GERAL PARA AQUICULTURA I.
+AMBULATÓRIO DERMATOLOGIA GERAL PARA AQUICULTURA I
 
 Ementa:
   Ciência, Epistemologia e Conhecimento.
