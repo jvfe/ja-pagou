@@ -10,7 +10,7 @@ function fazDisciplina() {
 }
 
 function fazEmenta() {
-  let ementas = fs.readFileSync("../data/ementas-final-split.txt").toString('utf-8')
+  let ementas = fs.readFileSync("../data/ementas-final1.txt").toString('utf-8')
   let emenMark = new rita.RiMarkov(4)
   emenMark.loadText(ementas)
   let ementa = emenMark.generateSentences(3).join("\n")
